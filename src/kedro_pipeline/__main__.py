@@ -25,7 +25,7 @@
 #
 # See the License for the specific language governing permissions and
 # limitations under the License.
-"""kedro-pipeline file for ensuring the package is executable
+"""kedro_pipeline file for ensuring the package is executable
 as `kedro_pipeline` and `python -m kedro_pipeline`
 """
 from pathlib import Path

@@ -1,4 +1,4 @@
-# kedro-pipeline
+# kedro_pipeline
 
 ## Overview
 

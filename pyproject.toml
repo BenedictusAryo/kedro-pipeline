@@ -1,6 +1,6 @@
 [tool.kedro]
 package_name = "kedro_pipeline"
-project_name = "kedro-pipeline"
+project_name = "kedro_pipeline"
 project_version = "0.17.4"
 
 [tool.isort]
